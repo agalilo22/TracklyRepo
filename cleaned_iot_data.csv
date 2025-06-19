@@ -1,0 +1,71 @@
+timestamp,device_id,data_type,data_value,numeric_value
+2025-05-28 08:54:25,TEST001,Location,New York,0.0
+2025-05-28 08:55:02,TEST001,Location,New York,0.0
+2025-05-28 08:55:02,PKG001,Location,New York,0.0
+2025-05-28 08:55:03,PKG001,Status,In Transit,0.0
+2025-05-28 08:55:04,PKG002,Location,Chicago,0.0
+2025-05-28 08:55:05,PKG002,Status,At Warehouse,0.0
+2025-05-28 08:55:06,PKG003,Temperature,22.5°C,22.5
+2025-05-28 08:55:07,PKG003,Status,Delivered,0.0
+2025-05-28 09:02:06,TEST001,Location,New York,0.0
+2025-05-28 09:02:06,PKG001,Location,New York,0.0
+2025-05-28 09:02:07,PKG001,Status,In Transit,0.0
+2025-05-28 09:02:08,PKG002,Location,Chicago,0.0
+2025-05-28 09:02:09,PKG002,Status,At Warehouse,0.0
+2025-05-28 09:02:10,PKG003,Temperature,22.5°C,22.5
+2025-05-28 09:02:11,PKG003,Status,Delivered,0.0
+2025-05-28 09:11:20,INITIAL,Test,Data,0.0
+2025-05-28 09:11:47,TEST001,Location,New York,0.0
+2025-05-28 09:11:47,PKG001,Location,New York,0.0
+2025-05-28 09:11:48,PKG001,Status,In Transit,0.0
+2025-05-28 09:11:49,PKG002,Location,Chicago,0.0
+2025-05-28 09:11:50,PKG002,Status,At Warehouse,0.0
+2025-05-28 09:11:51,PKG003,Temperature,22.5°C,22.5
+2025-05-28 09:11:52,PKG003,Status,Delivered,0.0
+2025-05-28 09:36:12,TEST001,Location,New York,0.0
+2025-05-28 09:36:12,PKG001,Location,New York,0.0
+2025-05-28 09:36:13,PKG001,Status,In Transit,0.0
+2025-05-28 09:36:14,PKG002,Location,Chicago,0.0
+2025-05-28 09:36:15,PKG002,Status,At Warehouse,0.0
+2025-05-28 09:36:16,PKG003,Temperature,22.5°C,22.5
+2025-05-28 09:36:17,PKG003,Status,Delivered,0.0
+2025-05-28 09:37:38,TEST001,Location,New York,0.0
+2025-05-28 09:37:38,PKG001,Location,New York,0.0
+2025-05-28 09:37:39,PKG001,Status,In Transit,0.0
+2025-05-28 09:37:40,PKG002,Location,Chicago,0.0
+2025-05-28 09:37:41,PKG002,Status,At Warehouse,0.0
+2025-05-28 09:37:42,PKG003,Status,Delivered,0.0
+2025-05-28 09:39:25,TEST001,Location,New York,0.0
+2025-05-28 09:39:25,PKG001,Location,New York,0.0
+2025-05-28 09:39:26,PKG001,Status,In Transit,0.0
+2025-05-28 09:39:27,PKG002,Location,Chicago,0.0
+2025-05-28 09:39:29,PKG002,Status,At Warehouse,0.0
+2025-05-28 09:39:30,PKG003,Status,Delivered,0.0
+2025-05-28 09:50:32,TEST001,Location,New York,0.0
+2025-05-28 09:50:32,PKG001,Location,New York,0.0
+2025-05-28 09:50:33,PKG001,Status,In Transit,0.0
+2025-05-28 09:50:34,PKG002,Location,Chicago,0.0
+2025-05-28 09:50:35,PKG002,Status,At Warehouse,0.0
+2025-05-28 09:50:36,PKG003,Status,Delivered,0.0
+2025-06-19 07:27:20,TEST001,Location,New York,0.0
+2025-06-19 07:32:32,TEST001,Location,New York,0.0
+2025-06-19 07:34:16,TEST001,Location,New York,0.0
+2025-06-19 07:35:34,TEST001,Location,New York,0.0
+2025-06-19 07:35:47,TEST001,Location,New York,0.0
+2025-06-19 07:36:41,TEST001,Location,New York,0.0
+2025-06-19 07:41:41,TEST001,Location,New York,0.0
+2025-06-19 07:41:41,PKG001,Location,New York,0.0
+2025-06-19 07:41:42,PKG001,Status,In Transit,0.0
+2025-06-19 07:41:43,PKG002,Location,Chicago,0.0
+2025-06-19 07:41:44,PKG002,Status,At Warehouse,0.0
+2025-06-19 07:41:45,PKG003,Status,Delivered,0.0
+2025-06-19 08:06:27,PKG001,Location,New York,0.0
+2025-06-19 08:06:27,PKG001,Status,In Transit,0.0
+2025-06-19 08:06:28,PKG002,Location,Chicago,0.0
+2025-06-19 08:06:28,PKG002,Status,At Warehouse,0.0
+2025-06-19 08:06:29,PKG003,Status,Delivered,0.0
+2025-06-19 08:08:38,PKG001,Location,New York,0.0
+2025-06-19 08:08:38,PKG001,Status,In Transit,0.0
+2025-06-19 08:08:39,PKG002,Location,Chicago,0.0
+2025-06-19 08:08:39,PKG002,Status,At Warehouse,0.0
+2025-06-19 08:08:40,PKG003,Status,Delivered,0.0
